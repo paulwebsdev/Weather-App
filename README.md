@@ -4,7 +4,7 @@ A simple and responsive weather application that displays real-time weather info
 It also supports auto-location detection and city search.
 
 [🚀 Live Demo]
-(https://paulwebsdev.github.io/Weather-App/)
+https://paulwebsdev.github.io/Weather-App/
 
 📸 Screenshot
 
